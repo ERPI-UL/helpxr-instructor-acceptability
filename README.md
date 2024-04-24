@@ -1,7 +1,7 @@
 # Exploring the Acceptability of HELP-XR among Instructors: A Tool for XR Pedagogical Content Creation
 [![Static Badge](https://img.shields.io/badge/Orignal%20paper%20DOI-10.1145%2F3656650.3656681-green)](https://doi.org/10.1145/3656650.3656681)
 
-[![Static Badge](https://img.shields.io/badge/Data%20%20DOI-XXXXX-green)](https://doi.org/10.1145/3656650.3656681)
+[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/ERPI-UL/helpxr-instructor-acceptability/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/ERPI-UL/helpxr-instructor-acceptability)
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ERPI-UL/helpxr-instructor-acceptability/)
 
 This repository contains the dataset and analysis conducted for research on the acceptability of the HELP-XR authoring tool among instructors.
@@ -46,3 +46,6 @@ Open this repository using Google Colab: [![Open In Colab](https://colab.researc
 3. Use jupyter interface (in the browser though) to access to the file
 
 4. Run the notebook
+
+## LICENSE
+This work is licensed under Creative Commons Attribution-NonCommercial 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/

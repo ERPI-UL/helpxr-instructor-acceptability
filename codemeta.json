@@ -1,0 +1,57 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "type": "SoftwareSourceCode",
+    "applicationCategory": "Extended reality, instruction",
+    "author": [
+        {
+            "id": "http://orcid.org/0000-0002-3676-6417",
+            "type": "Person",
+            "affiliation": {
+                "type": "Organization",
+                "name": "Université de Lorraine, ERPI"
+            },
+            "email": "alex.gabriel@univ-lorraine.fr",
+            "familyName": "Gabriel",
+            "givenName": "Alex"
+        }
+    ],
+    "contributor": [
+        {
+            "id": "https://orcid.org/0009-0002-5867-9717",
+            "type": "Person",
+            "affiliation": {
+                "type": "Organization",
+                "name": "Université de Lorraine, ERPI"
+            },
+            "familyName": "Deborde",
+            "givenName": "Josselin"
+        },
+        {
+            "id": "https://orcid.org/0000-0003-2477-1726",
+            "type": "Person",
+            "affiliation": {
+                "type": "Organization",
+                "name": "Université de Lorraine, ERPI"
+            },
+            "familyName": "Hassan",
+            "givenName": "Alaa"
+        }
+    ],
+    "dateCreated": "2023-10-13",
+    "datePublished": "2024-04-24",
+    "description": "Data analysis of HELP-XR authoring tool acceptability among instructors in the context of XR Pedagogical Content Creation.",
+    "funder": {
+        "type": "Organization",
+        "name": "Université de Lorraine"
+    },
+    "identifier": "swh:1:dir:8d4b4870dfa876f13f767b77c6ea3ebc1b6e9551",
+    "keywords": [
+        "XR",
+        "acceptability",
+        "user test"
+    ],
+    "license": "https://spdx.org/licenses/CC-BY-NC-4.0",
+    "name": "HELP-XR instructor acceptability ",
+    "programmingLanguage": "Python 3",
+    "referencePublication": "https://doi.org/10.1145/3656650.3656681"
+}
