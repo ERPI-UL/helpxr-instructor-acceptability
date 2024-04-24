@@ -1,0 +1,35 @@
+Code;Description
+id;Response ID
+submitdate;Date of submission
+lastpage;Last page
+startlanguage;Start language
+seed;Serial header
+startdate;Launch date
+datestamp;Date of last action
+Q00;As a trainer, I find the INDICO website useful in my daily life.
+G01Q02;As a trainer, using the INDICO site helps me to complete my activities more quickly.
+G01Q03;As a trainer, using the INDICO site increases my productivity
+G02Q04;As a trainer, learning to use the INDICO site is easy for me.
+G02Q05;As a trainer, my interactions with the INDICO site are simple and easy to understand.
+G02Q06;As a trainer, I find the INDICO site easy to use.
+G02Q07;As a trainer, it's easy for me to become adept at using the INDICO site.
+G03Q08;As a trainer, the people who are important to me think I should use the INDICO site.
+G03Q09;As a trainer, people who influence my behavior think I should use the INDICO site.
+G03Q10;As a trainer, the people whose opinion I value prefer that I use the INDICO site.
+G04Q11;As a trainer, I have the necessary resources to use the INDICO site.
+G04Q12;As a trainer, I have the necessary knowledge to use the INDICO site.
+G04Q13;As a trainer, the INDICO site is compatible with the other technologies I use.
+G04Q14;As a trainer, I can get help from others when I have difficulty using the INDICO site.
+G05Q15;Using the INDICO site is fun
+G05Q16;Using the INDICO site is pleasant
+G05Q17;Using the INDICO site is very entertaining
+G06Q18;Using the INDICO site may become a habit for me
+G06Q19;I may become addicted to using the INDICO site
+G06Q20;I plan to use the INDICO site to complete my tasks
+G07Q21;I intend to continue using INDICO in the future
+G07Q22;I will always try to use the INDICO site in my daily life
+G07Q23;I plan to continue using the INDICO site frequently
+G08Q24;Virtual reality or augmented reality in your pedagogy
+G08Q25;Virtual or augmented reality in your daily life
+G08Q26;Technological innovations of all kinds in your pedagogy
+G08Q27;Technological innovations of all kinds in your daily life

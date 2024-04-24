@@ -1,0 +1,35 @@
+Code;Description
+id;ID de la r�ponse
+submitdate;Date de soumission
+lastpage;Derni�re page
+startlanguage;Langue de d�part
+seed;T�te de s�rie
+startdate;Date de lancement
+datestamp;Date de la derni�re action
+Q00;En tant que formateur, je trouve le site INDICO utile dans ma vie quotidienne
+G01Q02;En tant que formateur, utiliser le site INDICO m'aide � accomplir mes activit�s plus rapidement
+G01Q03;En tant que formateur, utiliser le site INDICO augmente ma productivit�
+G02Q04;En tant que formateur, apprendre � utiliser le site INDICO est facile pour moi
+G02Q05;En tant que formateur, mes interactions avec le site INDICO sont simples et faciles � comprendre
+G02Q06;En tant que formateur, je trouve le site INDICO facile � utiliser
+G02Q07;En tant que formateur, il est facile pour moi de devenir habile � utiliser le site INDICO
+G03Q08;En tant que formateur, les personnes qui sont importantes pour moi pensent que je devrais utiliser le site INDICO
+G03Q09;En tant que formateur, les personnes qui influencent mon comportement pensent que je devrais utiliser le site INDICO
+G03Q10;En tant que formateur, les personnes dont j'estime l'opinion pr�f�rent que j'utilise le site INDICO
+G04Q11;En tant que formateur, j'ai les ressources n�cessaires pour utiliser le site INDICO
+G04Q12;En tant que formateur, j'ai les connaissances n�cessaires pour utiliser le site INDICO
+G04Q13;En tant que formateur, le site INDICO est compatible avec les autres technologies que j'utilise
+G04Q14;En tant que formateur, je peux obtenir l'aide d'autres personnes lorsque j'ai de la difficult� � utiliser le site INDICO
+G05Q15;Utiliser le site INDICO est amusant
+G05Q16;Utiliser le site INDICO est agr�able
+G05Q17;Utiliser le site INDICO est tr�s divertissant
+G06Q18;L'utilisation du site INDICO peut devenir une habitude pour moi
+G06Q19;Je pourrais devenir accro � l'utilisation du site INDICO
+G06Q20;Je pense utiliser le site INDICO pour r�aliser mes t�ches
+G07Q21;J'ai l'intention de continuer � utiliser le site INDICO dans le futur
+G07Q22;Je vais toujours essayer d'utiliser le site INDICO dans ma vie quotidienne
+G07Q23;Je pr�vois de continuer � utiliser le site INDICO fr�quemment
+G08Q24;La r�alit� virtuelle ou la r�alit� augment�e dans votre p�dagogie
+G08Q25;La r�alit� virtuelle ou la r�alit� augment�e dans votre vie quotidienne
+G08Q26;Les innovations technologiques en tout genre dans votre p�dagogie
+G08Q27;Les innovations technologiques en tout genre dans votre vie quotidienne

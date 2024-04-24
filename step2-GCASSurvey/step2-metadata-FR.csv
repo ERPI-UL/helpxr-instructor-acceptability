@@ -1,0 +1,45 @@
+Code;Description
+id;ID de la r�ponse
+submitdate; Date de soumission
+lastpage;Derni�re page
+startlanguage;Langue de d�part
+seed;T�te de s�rie
+startdate;Date de lancement
+datestamp;Date de la derni�re action
+G05Q07;Vous �tes :
+G01Q08;�ge :
+G01Q09;Domaine d'expertise :
+G01Q10;Nombre d'ann�e dans l'�ducation :
+G01Q11;Connaissez vous des technologies utilisant la r�alit� virtuelle ou la r�alit� augment�e�
+G01Q13;Si vous avez r�pondu OUI � la question d'avant,  pouvez vous citer des marques,  des entreprises des applications ou autre qui utilisent la r�alit� augment�e ou la r�alit�
+G01Q12;Sur une �chelle de 1 � 5,  o� situriez vous votre niveau sur la technologie en g�n�ral :
+G01Confiance[SQ001];Evaluer les affirmations suivantes. [La technologie ne me fait pas peur]
+G01Confiance[SQ002];Evaluer les affirmations suivantes. [ Je peux faire des travaux informatiques avanc�s ]
+G01Confiance[SQ003]; Evaluer les affirmations suivantes. [ Je ne suis pas du genre � bien me d�brouiller avec les ordinateurs ]
+G01Confiance[SQ004];Evaluer les affirmations suivantes. [ Je suis s�r que je pourrais apprendre � utiliser n'importe quel logiciel informatique ]
+G01Confiance[SQ005];Evaluer les affirmations suivantes. [ J'ai beaucoup de confiance en moi quand il s'agit d'utiliser un ordinateur ]
+G01Confiance[SQ006];Evaluer les affirmations suivantes. [ Je pourrais probablement apprendre moi-m�me la plupart des choses que je dois savoir sur les ordinateurs ]
+G01Confiance[SQ007];Evaluer les affirmations suivantes. [ J'h�site � utiliser un ordinateur au cas o� j'aurais l'air idiot ]
+G01Confiance[SQ008];Evaluer les affirmations suivantes. [ Je pourrais avoir de bonnes notes dans les cours d'informatique ]
+G01Confiance[SQ009];Evaluer les affirmations suivantes. [ J'ai besoin d'une personne exp�riment�e � proximit� lorsque j'utilise un ordinateur ]
+G01Confiance[SQ010];Evaluer les affirmations suivantes. [ Lorsque j'ai un probl�me avec l'ordinateur,  je le r�sous g�n�ralement moi-m�me ]
+G01Confiance[SQ011]; Evaluer les affirmations suivantes. [ J'h�site � utiliser un ordinateur de peur de faire des erreurs que je ne peux pas corriger ]
+G01Confiance[SQ012];Evaluer les affirmations suivantes. [ Les ordinateurs sont difficiles � comprendre ]
+G01Confiance[SQ013];Evaluer les affirmations suivantes. [ Si quelqu'un me donne un nouvel ordinateur � regarder,  je suis s�r que je pourrais faire fonctionner quelques programmes ]
+G01Confiance[SQ014];Evaluer les affirmations suivantes. [ Je me sens � l'aise lorsque je dois utiliser un ordinateur ]
+G01Confiance[SQ015];Evaluer les affirmations suivantes. [ Je ne suis pas bon avec les ordinateurs ]
+G02Affection[SQ001];Evaluer les affirmations suivantes. [Je me sens hostile envers les ordinateurs]
+G02Affection[SQ002];Evaluer les affirmations suivantes. [J'ai un sentiment de naufrage quand je pense � utiliser un ordinateur ]
+G02Affection[SQ003];Evaluer les affirmations suivantes. [J'aime travailler avec des ordinateurs ]
+G02Affection[SQ004];Evaluer les affirmations suivantes. [Je n'aime pas parler avec les autres d'ordinateurs ]
+G02Affection[SQ005];Evaluer les affirmations suivantes. [ J'�vite d'utiliser les ordinateurs chaque fois que je le peux ]
+G02Affection[SQ006];Evaluer les affirmations suivantes. [Les ordinateurs sont ennuyeux ]
+G02Affection[SQ007];Evaluer les affirmations suivantes. [ J'aime passer beaucoup de temps � utiliser un ordinateur ]
+G02Affection[SQ008];Evaluer les affirmations suivantes. [ Le d�fi d'utiliser un ordinateur me pla�t beaucoup ]
+G02Affection[SQ009];Evaluer les affirmations suivantes. [ J'esp�re que je n'arriverai jamais au point d'avoir � utiliser des ordinateurs ]
+G02Affection[SQ010];Evaluer les affirmations suivantes. [Les ordinateurs sont agr�ables ]
+G03Cognitive[SQ001];"Evaluer les affirmations suivantes. [ Il faut �tre un ""cerveau"" pour travailler avec des ordinateurs ]"
+G03Cognitive[SQ002];Evaluer les affirmations suivantes. [ Peu de gens peuvent utiliser un ordinateur ]
+G03Cognitive[SQ003];Evaluer les affirmations suivantes. [ Il faut �tre jeune pour apprendre � utiliser un ordinateur ]
+G03Cognitive[SQ004];Evaluer les affirmations suivantes. [ Les ordinateurs �chouent tr�s fr�quemment ]
+G03Cognitive[SQ005];Evaluer les affirmations suivantes. [ Tout le monde peut utiliser un ordinateur ]

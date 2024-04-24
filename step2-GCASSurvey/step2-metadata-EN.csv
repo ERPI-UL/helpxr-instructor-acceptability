@@ -1,0 +1,45 @@
+Code;Description
+id;Response ID
+submitdate;Submission date
+lastpage;Last page
+startlanguage;Start language
+seed;Serial header
+startdate;Launch date
+datestamp;Last action date
+G05Q07;You are :
+G01Q08;Age :
+G01Q09;Field of expertise :
+G01Q10;Number of years in education :
+G01Q11;Do you know of any technologies using virtual or augmented reality? 
+G01Q13;If you answered YES to the previous question, can you name any brands, companies, applications or anything else that uses augmented reality or virtual reality?
+G01Q12;On a scale of 1 to 5, how would you rate your level of technology in general?
+G01Confiance[SQ001];Evaluate the following statements. [Technology doesn't scare me]
+G01Confiance[SQ002];Evaluate the following statements. [ I can do advanced computer work ]
+G01Confiance[SQ003];Evaluate the following statements. [ I'm not the type to do well with computers ] 
+G01Confiance[SQ004];Evaluate the following statements. [ I'm sure I could learn to use any computer software ]
+G01Confiance[SQ005];Evaluate the following statements. [ I have a lot of confidence when it comes to using a computer ]
+G01Confiance[SQ006];Evaluate the following statements. [ I could probably teach myself most of the things I need to know about computers ]
+G01Confiance[SQ007];Evaluate the following statements. [ I hesitate to use a computer in case I look stupid ]
+G01Confiance[SQ008];Evaluate the following statements. [ I could get good marks in computer courses ]
+G01Confiance[SQ009];Evaluate the following statements. [ I need an experienced person nearby when using a computer ]
+G01Confiance[SQ010];Evaluate the following statements. [ When I have a problem with the computer, I usually solve it myself ]
+G01Confiance[SQ011];Evaluate the following statements. [ I hesitate to use a computer for fear of making mistakes I can't correct ]
+G01Confiance[SQ012];Evaluate the following statements. [ Computers are difficult to understand ]
+G01Confiance[SQ013];Evaluate the following statements. [ If someone gave me a new computer to look at, I'm sure I could get some programs to work ]
+G01Confiance[SQ014];Evaluate the following statements. [ I feel comfortable when I have to use a computer ]
+G01Confiance[SQ015];Evaluate the following statements. [ I'm not good with computers ]
+G02Affection[SQ001];Evaluate the following statements. [I feel hostile towards computers] Evaluate the following statements.
+G02Affection[SQ002];Evaluate the following statements. [I have a sinking feeling when I think of using a computer]
+G02Affection[SQ003];Evaluate the following statements. [I like working with computers ]
+G02Affection[SQ004];Evaluate the following statements. [I don't like talking to others about computers ]
+G02Affection[SQ005];Evaluate the following statements. [ I avoid using computers whenever I can ]
+G02Affection[SQ006];Evaluate the following statements. [Computers are boring ]
+G02Affection[SQ007];Evaluate the following statements. [I like to spend a lot of time using a computer.]
+G02Affection[SQ008];Evaluate the following statements. [ I enjoy the challenge of using a computer ]
+G02Affection[SQ009];Evaluate the following statements. [ I hope I never get to the point where I have to use computers ]
+G02Affection[SQ010];Evaluate the following statements. [Computers are nice ]
+G03Cognitive[SQ001];"Evaluate the following statements. [ You have to be a ""brain"" to work with computers ] "
+G03Cognitive[SQ002];Evaluate the following statements. [ Few people can use a computer ]
+G03Cognitive[SQ003];Evaluate the following statements. [ You have to be young to learn to use a computer ]
+G03Cognitive[SQ004];Evaluate the following statements. [ Computers fail very frequently ]
+G03Cognitive[SQ005];Evaluate the following statements. [ Anyone can use a computer ]
